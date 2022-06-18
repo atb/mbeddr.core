@@ -723,6 +723,9 @@
       <node concept="m$_yC" id="$bJ0jg_Ety" role="m$_yJ">
         <ref role="m$_y1" to="al5i:$bJ0jguQdg" resolve="com.mbeddr.platform" />
       </node>
+      <node concept="m$_yC" id="K3FXS9Pfkq" role="m$_yJ">
+        <ref role="m$_y1" to="90a9:hCVXosGNJH" resolve="com.mbeddr.mpsutil.modellisteners" />
+      </node>
       <node concept="3_J27D" id="5qO$P$PrHao" role="m_cZH">
         <node concept="3Mxwew" id="5qO$P$PrHap" role="3MwsjC">
           <property role="3MwjfP" value="mbeddr.req" />
