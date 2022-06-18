@@ -388,6 +388,9 @@
       <node concept="m$_yC" id="4i9pOwKZppe" role="m$_yJ">
         <ref role="m$_y1" to="ffeo:4k71ibbKLe8" resolve="jetbrains.mps.core" />
       </node>
+      <node concept="m$_yC" id="K3FXS9PKz3" role="m$_yJ">
+        <ref role="m$_y1" to="ffeo:1JaUSFUm4G_" resolve="jetbrains.mps.editor.contextActions" />
+      </node>
       <node concept="m$_yC" id="20rWHx3xldu" role="m$_yJ">
         <ref role="m$_y1" node="7uZw0yZ43Jz" resolve="com.mbeddr.core" />
       </node>
